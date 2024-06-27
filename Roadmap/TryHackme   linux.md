@@ -1,0 +1,43 @@
+
+- Beginner 
+
+    - [ ] Linux Fundamentals Part 1
+	 - [ ] Linux File System Analysis
+	 - [ ]  Linux Process Analysis
+	 - [ ] Linux Modules
+	 - [ ] OpenVPN
+	 - [ ] TryHack3M: Bricks Heist
+	 - [ ]  Lesson Learned?
+	 - [ ]  Intro To Pwntools
+	 - [ ]  Intro PoC Scripting
+	 - [ ] Intro to Log Analysis
+	 - [ ] Intro to Logs
+	 - [ ] Vulnerabilities 101
+- Intermediate
+	 - [ ]  Ninja Skills
+	 - [ ]  Log Operations
+	 - [ ]  Linux Backdoors
+	 - [ ]  Creative
+	 - [ ]  Dreaming
+	 - [ ]  Red
+	 - [ ]  Bulletproof Penguin
+	 - [ ]  Linux Strength Training
+	 - [ ]  mKingdom
+	 - [ ]  The Witch's Cauldron
+	 - [ ]  Dig Dug
+	 - [ ]  Empire
+	 - [ ]  Outlook NTLM Leak
+	 - [ ]  PrintNightmare, again!
+	 - [ ]  Brute Force Heroes
+	 - [ ]  Slingshot
+	 - [ ]  Committed
+- Advanced 
+	 - [ ]  Linux Agency
+	 - [ ]  Linux Function Hooking
+	 - [ ]  Atlassian CVE-2022-26134
+	 - [ ]  W1seGuy
+	 - [ ]  Confluence CVE-2023-22515
+	 - [ ]  Post-Exploitation Basics
+	 - [ ]  Linux Server Forensics
+	 - [ ]  CVE-2022-26923
+	 - [ ]  Moniker Link (CVE-2024-21413)

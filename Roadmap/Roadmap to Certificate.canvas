@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"35952cb71bafb406","type":"text","text":"CEH","x":480,"y":-190,"width":250,"height":60},
+		{"id":"dd31fd1f4102a3e4","type":"text","text":"paid ","x":410,"y":-270,"width":250,"height":60},
+		{"id":"c689aa646c4d4728","type":"text","text":"free","x":20,"y":-270,"width":250,"height":60},
+		{"id":"18d3243aa5c92bb4","type":"text","text":"Without Certifcate(Rank)","x":-270,"y":-370,"width":250,"height":60},
+		{"id":"a9eea2d048d0295f","type":"text","text":"Cyber Security  with Tryhackme ","x":-840,"y":-480,"width":220,"height":60},
+		{"id":"f1412be9ed191974","type":"text","text":"Linux","x":-840,"y":-360,"width":220,"height":60},
+		{"id":"d2e8ef850fc9da85","type":"text","text":"Computer Networking","x":-840,"y":-260,"width":220,"height":60},
+		{"id":"8a1b306bdc7811ec","type":"text","text":"Mindset","x":-840,"y":-160,"width":220,"height":60},
+		{"id":"9ab18e964b64c245","type":"text","text":"Programming ","x":-840,"y":-60,"width":220,"height":60},
+		{"id":"fd6b52fddfb3d85b","type":"text","text":"- Hackthebox (150 blackbox)\n- Tryhackme  (250 labs )\n- picoctf (1500 points)\n- ctf101.org (1700 points)\n\n","x":-520,"y":-160,"width":330,"height":150},
+		{"id":"f2f267621ec1cb66","type":"text","text":"With Certificate","x":680,"y":-400,"width":250,"height":60},
+		{"id":"fbce64423fb49da5","type":"text","text":"Ringerctf atleast required 1250 point","x":980,"y":-190,"width":250,"height":60},
+		{"id":"e809bc30173be5a9","type":"text","text":"Cyber Certification ","x":210,"y":-660,"width":250,"height":60},
+		{"id":"3f3b2d96d18a2b62","type":"text","text":"CAP by Secuirty get offer all the time","x":320,"y":-10,"width":250,"height":60},
+		{"id":"a29506cbb27fcb0d","type":"text","text":"Ejpt","x":355,"y":-100,"width":250,"height":60},
+		{"id":"1a00657f5929025a","type":"text","text":"PNPT By  TCM Security ","x":-105,"y":-100,"width":250,"height":60},
+		{"id":"397203be9cd4ebb4","type":"text","text":"CC by ISC2","x":-80,"y":-190,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5f769c48c4663ec8","fromNode":"a9eea2d048d0295f","fromSide":"left","toNode":"f1412be9ed191974","toSide":"left"},
+		{"id":"ebc982522009d20d","fromNode":"a9eea2d048d0295f","fromSide":"left","toNode":"d2e8ef850fc9da85","toSide":"left"},
+		{"id":"df19ad2a7998b87f","fromNode":"a9eea2d048d0295f","fromSide":"left","toNode":"8a1b306bdc7811ec","toSide":"left"},
+		{"id":"4ebbc30c18a6ccfe","fromNode":"a9eea2d048d0295f","fromSide":"left","toNode":"9ab18e964b64c245","toSide":"left"},
+		{"id":"ca95b4c4d370c4f3","fromNode":"dd31fd1f4102a3e4","fromSide":"left","toNode":"35952cb71bafb406","toSide":"left"},
+		{"id":"1e7bc8f48f9266a9","fromNode":"dd31fd1f4102a3e4","fromSide":"left","toNode":"a29506cbb27fcb0d","toSide":"left"},
+		{"id":"14cd965a2e692a0a","fromNode":"e809bc30173be5a9","fromSide":"bottom","toNode":"dd31fd1f4102a3e4","toSide":"top"},
+		{"id":"864032e7531fba90","fromNode":"e809bc30173be5a9","fromSide":"bottom","toNode":"c689aa646c4d4728","toSide":"top"},
+		{"id":"5eec0897ef24ca9b","fromNode":"c689aa646c4d4728","fromSide":"left","toNode":"397203be9cd4ebb4","toSide":"left"},
+		{"id":"e4b0d0684bf2624a","fromNode":"c689aa646c4d4728","fromSide":"left","toNode":"1a00657f5929025a","toSide":"left"},
+		{"id":"88f71680036f6a5e","fromNode":"e809bc30173be5a9","fromSide":"left","toNode":"18d3243aa5c92bb4","toSide":"right"},
+		{"id":"dcba23b24084c265","fromNode":"fd6b52fddfb3d85b","fromSide":"top","toNode":"18d3243aa5c92bb4","toSide":"left"},
+		{"id":"8748ceb3300158e1","fromNode":"e809bc30173be5a9","fromSide":"right","toNode":"f2f267621ec1cb66","toSide":"left"},
+		{"id":"3ed0955af4a679b5","fromNode":"fbce64423fb49da5","fromSide":"top","toNode":"f2f267621ec1cb66","toSide":"right"},
+		{"id":"74a1f97af3b13a7b","fromNode":"dd31fd1f4102a3e4","fromSide":"left","toNode":"3f3b2d96d18a2b62","toSide":"left"}
+	]
+}
