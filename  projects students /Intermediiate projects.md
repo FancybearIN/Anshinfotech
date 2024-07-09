@@ -1,5 +1,5 @@
 Here is a Bash script to automate Nmap scans with options for stealth scan, aggressive scan, all port scan, and more:
-
+harsh => gndec (cse)
 ```bash
 #!/bin/bash
 
@@ -80,7 +80,7 @@ You can save this script to a file, make it executable, and run it to perform va
 Here are separate Bash scripts to automate Gobuster, Hashcat, John the Ripper, Naabu, Rustscan, FFUF, Hydra, and Medusa with different options for each tool.
 
 ### Gobuster Automation
-
+jaskaran => (cse)
 ```bash
 #!/bin/bash
 
@@ -118,7 +118,7 @@ esac
 ```
 
 ### Hashcat Automation
-
+devash => (cse )
 ```bash
 #!/bin/bash
 
@@ -166,7 +166,7 @@ esac
 ```
 
 ### John the Ripper Automation
-
+harman => (cse)
 ```bash
 #!/bin/bash
 
@@ -205,7 +205,7 @@ john --show "$hash_file"
 ```
 
 ### Naabu Automation
-
+sapna => (it)
 ```bash
 #!/bin/bash
 
@@ -243,7 +243,7 @@ esac
 ```
 
 ### Rustscan Automation
-
+rupinder => (it)
 ```bash
 #!/bin/bash
 
@@ -281,7 +281,7 @@ esac
 ```
 
 ### FFUF Automation
-
+tarun => (it)
 ```bash
 #!/bin/bash
 
@@ -314,7 +314,7 @@ esac
 ```
 
 ### Hydra Automation
-
+skashi => (it)
 ```bash
 #!/bin/bash
 
